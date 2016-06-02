@@ -1,0 +1,5 @@
+{
+  "name": "reflect-metadata",
+  "main": "index.d.ts",
+  "browser": "index.d.ts"
+}
